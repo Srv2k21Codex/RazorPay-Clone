@@ -1,0 +1,1 @@
+# This is razorpay clone project built using basic HTML and Tailwind CSS
